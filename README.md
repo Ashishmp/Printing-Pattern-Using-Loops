@@ -1,4 +1,3 @@
-/*Printing-Pattern-Using-Loops*/
 
 #include <stdio.h>
 #include <string.h>
